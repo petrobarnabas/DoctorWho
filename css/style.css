@@ -5,10 +5,13 @@ body {
 	font-weight: 50;
   background-color: yellow;
 }
-
+.bg-custom{
+    background-color: #060c31;
+}
 .Navbar {
 	width: 100%;
 	margin-left: auto;
+    background-color: #3537a1 ;
 }
 
 header {
