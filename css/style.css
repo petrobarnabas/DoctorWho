@@ -1,8 +1,9 @@
 body {
 	margin: 0;
-	background: #3537a1;
+	background-color: darkblue;
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 50;
+  background-color: yellow;
 }
 .bg-custom{
     background-color: #060c31;
@@ -79,7 +80,7 @@ p{
 }
 
 #doctors {
-    background: linear-gradient(0deg, #102372 0%, #2b66a8 55%);
+    background: darkblue;
 }
 #tardis {
     background-color: #ffffff;
@@ -110,7 +111,7 @@ section  {
     text-align: justify;
 }
 #doctors img{
-    border: 2px solid #fff;
+    border: 2px solid lime;
 }
 
 #doctors .doctor, #doctors .regeneration {
@@ -120,6 +121,7 @@ section  {
     padding: 0.5em;
     margin-top: 15px;
     margin-bottom:15px;
+    border-color: darkgreen;
 }
 
 .name {
@@ -143,17 +145,28 @@ section  {
 .buttons {
     text-align: center;
 }
-
-.doki-kep {
-    border-radius: 50%;
-    border: 2px solid white;
+ #videos{
+  text-align: right;
+}
+iframe{
+  border: 3px solid white;
+}
+footer{
+  background-color: #102372;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
-#tardis img {
-    width: auto;
-    height: auto;
+.regeneration p {
+    color: #102372;
 }
 
-.buttons {
-    text-align: center;
+section{
+    background-color: darkblue !important;
+}
+
+.doctor{
+  display: block;
+  border-color: black;
 }
