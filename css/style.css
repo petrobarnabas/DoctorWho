@@ -1,0 +1,156 @@
+body {
+	margin: 0;
+	background: #3537a1;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 50;
+}
+
+.Navbar {
+	width: 100%;
+	margin-left: auto;
+}
+
+header {
+  background: #1f2079;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+nav ul li a{
+    font-size:small;
+}
+
+nav {
+  float: left;
+}
+
+nav ul {
+  margin: 0;
+  padding-left: auto;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 10px;
+  padding-top: 23px;
+
+  position: relative;
+}
+
+nav a {
+  color: #444;
+  text-decoration: none;
+  text-transform: uppercase; 
+  font-size: 10px;
+}
+
+nav a:hover {
+  color: #000;
+}
+
+nav a::before {
+  content: '';
+  display: block;
+  height: 5px;
+  background-color: #444;
+
+  position: absolute;
+  top: 0;
+  width: 0%;
+
+  transition: all ease-in-out 250ms;
+}
+
+nav a:hover::before {
+  width: 100%;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;
+}
+
+#doctors {
+    background: linear-gradient(0deg, #102372 0%, #2b66a8 55%);
+}
+#tardis {
+    background-color: #ffffff;
+}
+#videos {
+    background: #102372;
+}
+
+.btn-primary {
+    background-color: #060c31;
+}
+
+section  {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.navbar {
+    background-color: #060c31;
+    box-shadow: 1px 1px black;
+}
+
+#doctors {
+    color: #fff;
+}
+
+#doctors p {
+    text-align: justify;
+}
+#doctors img{
+    border: 2px solid #fff;
+}
+
+#doctors .doctor, #doctors .regeneration {
+    color: #102372;
+    background: rgba(255,255,255,0.5);
+    border: 2px solid #fff;
+    padding: 0.5em;
+    margin-top: 15px;
+    margin-bottom:15px;
+}
+
+.name {
+    font-variant: small-caps;
+}
+
+#videos .embed-responsive-item {
+    border: 2px solid #fff;
+}
+
+.doki-kep {
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+#tardis img {
+    width: auto;
+    height: auto;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.doki-kep {
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+#tardis img {
+    width: auto;
+    height: auto;
+}
+
+.buttons {
+    text-align: center;
+}
