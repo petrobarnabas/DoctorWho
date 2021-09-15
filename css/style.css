@@ -4,10 +4,13 @@ body {
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 50;
 }
-
+.bg-custom{
+    background-color: #060c31;
+}
 .Navbar {
 	width: 100%;
 	margin-left: auto;
+    background-color: #3537a1 ;
 }
 
 header {
