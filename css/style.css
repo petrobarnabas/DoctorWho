@@ -3,6 +3,7 @@ body {
 	background: lightblue;
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 50;
+  background-color: yellow;
 }
 
 .Navbar {
@@ -117,6 +118,7 @@ section  {
     padding: 0.5em;
     margin-top: 15px;
     margin-bottom:15px;
+    border-color: darkgreen;
 }
 
 .name {
@@ -140,15 +142,15 @@ section  {
 .buttons {
     text-align: center;
 }
-
-.tardis_text{
-  color: black;
+ #videos{
+  text-align: right;
 }
-
-.doctor p {
-    color: #102372;
+iframe{
+  border: 3px solid white;
 }
-
-.regeneration p {
-    color: #102372;
+footer{
+  background-color: #102372;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 30px;
 }
