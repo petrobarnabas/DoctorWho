@@ -3,6 +3,7 @@ body {
 	background: #3537a1;
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 50;
+  background-color: yellow;
 }
 
 .Navbar {
@@ -117,6 +118,7 @@ section  {
     padding: 0.5em;
     margin-top: 15px;
     margin-bottom:15px;
+    border-color: darkgreen;
 }
 
 .name {
