@@ -165,5 +165,5 @@ section{
 
 .doctor{
   display: block;
-  border-color: black;
+  border-color: black !important;
 }
