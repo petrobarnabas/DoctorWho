@@ -1,6 +1,6 @@
 body {
 	margin: 0;
-	background: #3537a1;
+	background: lightblue;
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 50;
 }
@@ -107,7 +107,7 @@ section  {
     text-align: justify;
 }
 #doctors img{
-    border: 2px solid #fff;
+    border: 2px solid lime;
 }
 
 #doctors .doctor, #doctors .regeneration {
