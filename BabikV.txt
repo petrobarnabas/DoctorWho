@@ -1,0 +1,29 @@
+<div class="col-sm-4">
+                <div class="doctor">
+                    <img src="img/12th.png" class="img-fluid doki-kep">
+                    <h2>
+                        12. doki
+                    </h2>
+
+                    <p>
+                        A 12. doki Peter Capaldi lett. érdekesség, hogy ő már szerepelt egy korábbi részben.
+                    </p>
+                    <a href="https://en.wikipedia.org/wiki/Twelfth_Doctor" class="btn btn-primary" role="button">12. doki a Wikipédián</a>
+                </div>
+            </div>
+
+            <div class="col-sm-4">
+                <div class="doctor">
+                    <img src="img/13th.png" class="img-fluid doki-kep">
+                    <h2>
+                        13. doki
+                    </h2>
+
+                    <p>
+                            12. doki 13. doki Jodie Whittaker lett az első női doki. Az aktuális, 13. dokit jelenleg is ő játssza. https://en.wikipedia.org/wiki/Thirteenth_Doctor
+                    </p>
+
+                    <a href="https://en.wikipedia.org/wiki/Twelfth_Doctor" class="btn btn-primary" role="button">13. doki a Wikipédián</a>
+
+                </div>
+            </div>
