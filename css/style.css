@@ -140,3 +140,7 @@ section  {
 .buttons {
     text-align: center;
 }
+
+.doctor p {
+    color: #102372;
+}
