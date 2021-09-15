@@ -140,3 +140,9 @@ section  {
 .buttons {
     text-align: center;
 }
+ #videos{
+  text-align: right;
+}
+iframe{
+  border: 3px solid white;
+}
