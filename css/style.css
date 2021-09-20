@@ -3,7 +3,6 @@ body {
 	background-color: darkblue;
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 50;
-  background-color: yellow;
 }
 .bg-custom{
     background-color: #060c31;
@@ -121,7 +120,6 @@ section  {
     padding: 0.5em;
     margin-top: 15px;
     margin-bottom:15px;
-    border-color: darkgreen;
 }
 
 .name {
@@ -168,5 +166,9 @@ section{
 
 .doctor{
   display: block;
+<<<<<<< HEAD
   border-color: purple;
+=======
+  border-color: black !important;
+>>>>>>> b02d6c7e495f404478d34e5f17266bfadfe575b6
 }
